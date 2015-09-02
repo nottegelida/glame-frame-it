@@ -3,6 +3,7 @@
 ABANDON_PET="Vuoi davvero abbandonare permanentemente il famiglio? Non potrai più evocare questo specifico famiglio.";
 ABANDON_QUEST="Abbandona missione";
 ABANDON_QUEST_CONFIRM="Vuoi abbandonare la missione \"%s\"?";
+ABANDON_QUEST_CONFIRM_WITH_ITEMS = "Abandon \"%s\", destroying %s?";
 ABILITIES="Abilità";
 ABILITYBOOK_BUTTON="Abilità";
 ABSORB="Assorbimento";
@@ -2015,6 +2016,7 @@ GMSURVEY_REQUEST_TEXT="Per favore rispondi alle seguenti domande:";
 GMSURVEY_SUBMITTED="La risposta al questionario è stata inviata.";
 GMSURVEY_TITLE="Questionario sull'Assistenza Clienti dei Game Master (GM)";
 GM_EMAIL_NAME="Assistenza Clienti";
+GM_SURVEY_NOT_APPLICABLE = "N/A";
 GM_TICKET_ESCALATED="Il ticket è stato inoltrato a un responsabile di livello superiore.";
 GM_TICKET_HIGH_VOLUME="Stiamo ricevendo un gran numero di petizioni.";
 GM_TICKET_SERVICE_SOON="Il ticket verrà analizzato presto.";
