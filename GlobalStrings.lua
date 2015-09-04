@@ -1,4 +1,4 @@
--- AUTOMATICALLY GENERATED -- DO NOT EDIT!=
+-- AUTOMATICALLY GENERATED -- DO NOT EDIT!
 
 ABANDON_PET="Vuoi davvero abbandonare permanentemente il famiglio? Non potrai più evocare questo specifico famiglio.";
 ABANDON_QUEST="Abbandona missione";
@@ -3445,7 +3445,7 @@ SHOW_MULTIBAR1_TEXT="Barra inferiore sinistra";
 SHOW_MULTIBAR2_TEXT="Barra inferiore destra";
 SHOW_MULTIBAR3_TEXT="Prima barra destra";
 SHOW_MULTIBAR4_TEXT="Seconda barra destra";
-SHOW_NEWBIE_TIPS_TEXT="Informazioni per principianti";
+SHOW_NEWBIE_TIPS_TEXT = "Show Detailed Tooltips";
 SHOW_NPC_NAMES="Nomi dei PNG";
 SHOW_OFFLINE_MEMBERS="Mostra membri offline";
 SHOW_OWN_NAME="Mostra il proprio nome";
@@ -5447,7 +5447,7 @@ WHO_TAG_GUILD="g-";
 WHO_TAG_NAME="n-";
 WHO_TAG_RACE="r-";
 WHO_TAG_ZONE="z-";
-WIDESCREEN_TAG="(Panoramica)";
+WIDESCREEN_TAG = "(Wide)";
 WINDOWED_MAXIMIZED="Massimizzata";
 WINDOWED_MODE="Modalità in finestra";
 WORLDMAP_BUTTON="Mappa";
